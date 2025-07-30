@@ -1,66 +1,35 @@
-<div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
-      <img src="public/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
-    <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
-  </div>
-
   <h3 align="center">Cek Resume</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+1. ✨ [Pendahuluan](#introduction)
+2. ⚙️ [Tumpukan Teknologi](#tech-stack)
+3. 🔋 [Fitur](#features)
+4. 🤸 [Mulai Cepat](#quick-start)
+5. 🔗 [Aset](#links)
+6. 🚀 [Lebih Lanjut](#more)
 
 ## <a name="introduction">✨ Pendahuluan</a>
 
 Bangun Penganalisis Resume bertenaga AI dengan React, React Router, dan Puter.js! Terapkan otentikasi tanpa hambatan, unggah dan simpan resume, serta cocokkan kandidat dengan pekerjaan menggunakan evaluasi AI cerdas. Dapatkan umpan balik khusus dan skor ATS yang disesuaikan dengan setiap daftar—semuanya terbungkus dalam UI yang bersih dan dapat digunakan kembali.
 
-Jika Anda baru memulai dan membutuhkan bantuan atau menghadapi bug, bergabunglah dengan komunitas Discord aktif kami dengan lebih dari **50 ribu+** anggota. Ini adalah tempat di mana orang-orang saling membantu.
+## <a name="tech-stack">⚙️ Tumpukan Teknologi</a>
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+- **[React](https://react.dev/)** adalah pustaka JavaScript open-source populer untuk membangun antarmuka pengguna menggunakan komponen yang dapat digunakan kembali dan DOM virtual, memungkinkan aplikasi satu halaman dan native yang efisien dan dinamis.
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+- **[React Router v7](https://reactrouter.com/)** adalah pustaka perutean utama untuk aplikasi React, menawarkan rute bersarang, pemuat/aksi data, batas kesalahan, pemisahan kode, dan dukungan SSR—semuanya dengan jalur peningkatan yang mulus dari v6.
 
-- **[React](https://react.dev/)** is a popular open‑source JavaScript library for building user interfaces using reusable components and a virtual DOM, enabling efficient, dynamic single-page and native apps.
+- **[Puter.com](https://jsm.dev/cek-resume-puter)** adalah sistem operasi internet open-source canggih yang dirancang agar kaya fitur, sangat cepat, dan sangat dapat diperluas. Puter dapat digunakan sebagai: Cloud pribadi yang mengutamakan privasi untuk menyimpan semua file, aplikasi, dan game Anda di satu tempat yang aman, dapat diakses dari mana saja kapan saja.
 
-- **[React Router v7](https://reactrouter.com/)** is the go‑to routing library for React apps, offering nested routes, data loaders/actions, error boundaries, code splitting, and SSR support—all with a smooth upgrade path from v6.
+- **[Puter.js](https://jsm.dev/cek-resume-puterjs)** adalah SDK sisi klien kecil yang menambahkan otentikasi tanpa server, penyimpanan, basis data, dan AI (GPT, Claude, DALL·E, OCR…) langsung ke aplikasi browser Anda—tidak diperlukan backend dan biaya ditanggung oleh pengguna.
 
-- **[Puter.com](https://jsm.dev/resumind-puter)** is an advanced, open-source internet operating system designed to be feature-rich, exceptionally fast, and highly extensible. Puter can be used as: A privacy-first personal cloud to keep all your files, apps, and games in one secure place, accessible from anywhere at any time.
+- **[Tailwind CSS](https://tailwindcss.com/)** adalah kerangka kerja CSS yang mengutamakan utilitas yang memungkinkan pengembang merancang antarmuka pengguna kustom dengan menerapkan kelas utilitas tingkat rendah langsung di HTML, menyederhanakan proses desain.
 
-- **[Puter.js](https://jsm.dev/resumind-puterjs)** is a tiny client‑side SDK that adds serverless auth, storage, database, and AI (GPT, Claude, DALL·E, OCR…) straight into your browser app—no backend needed and costs borne by users.
+- **[TypeScript](https://www.typescriptlang.org/)** adalah superset JavaScript yang menambahkan pengetikan statis, memberikan alat yang lebih baik, kualitas kode, dan deteksi kesalahan untuk pengembang, menjadikannya ideal untuk membangun aplikasi berskala besar.
 
-- **[Tailwind CSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows developers to design custom user interfaces by applying low-level utility classes directly in HTML, streamlining the design process.
+- **[Vite](https://vite.dev/)** adalah alat build cepat dan server dev menggunakan modul ES native untuk startup instan, hot-module replacement, dan build produksi bertenaga Rollup—sempurna untuk pengembangan web modern.
 
-- **[TypeScript](https://www.typescriptlang.org/)** is a superset of JavaScript that adds static typing, providing better tooling, code quality, and error detection for developers, making it ideal for building large-scale applications.
-
-- **[Vite](https://vite.dev/)** is a fast build tool and dev server using native ES modules for instant startup, hot‑module replacement, and Rollup‑powered production builds—perfect for modern web development.
-
-- **[Zustand](https://github.com/pmndrs/zustand)** is a minimal, hook-based state management library for React. It lets you manage global state with zero boilerplate, no context providers, and excellent performance through selective state subscriptions.
+- **[Zustand](https://github.com/pmndrs/zustand)** adalah pustaka manajemen status minimal berbasis hook untuk React. Ini memungkinkan Anda mengelola status global tanpa boilerplate, tanpa penyedia konteks, dan kinerja yang sangat baik melalui langganan status selektif.
 
 ## <a name="features">🔋 Fitur</a>
 
@@ -95,8 +64,8 @@ Pastikan Anda telah menginstal yang berikut ini di mesin Anda:
 **Mengkloning Repositori**
 
 ```bash
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
-cd ai-resume-analyzer
+git clone https://github.com/rayhanvito/Cek-Resume.git
+cd Cek-Resume
 ```
 
 **Instalasi**
