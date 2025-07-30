@@ -83,22 +83,3 @@ npm run dev
 ```
 
 Buka [http://localhost:5173](http://localhost:5173) di browser Anda untuk melihat proyek.
-
-## <a name="links">🔗 Aset</a>
-
-Aset dan cuplikan yang digunakan dalam proyek dapat ditemukan di **[video kit](https://jsm.dev/resumind-kit)**.
-
-<a href="https://jsm.dev/resumind-kit" target="_blank">
-  <img src="public/readme/videokit.webp" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 Lebih Lanjut</a>
-
-**Tingkatkan keterampilan Anda dengan Kursus Lanjutan Next.js**
-
-Menikmati pembuatan proyek ini? Selami lebih dalam kursus PRO kami untuk petualangan belajar yang lebih kaya. Mereka dikemas dengan
-penjelasan terperinci, fitur-fitur keren, dan latihan untuk meningkatkan keterampilan Anda. Cobalah!
-
-<a href="https://jsm.dev/resumind-courses" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
